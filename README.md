@@ -1,5 +1,5 @@
 # wordle-game
-### A self-implementation of the game Wordle
+### A self-implementation of the game Wordle in Java
 The word game called Wordle has recently become extremely popular online. Articles about the game seem to be everywhere you look. 
 
 It even made an appearance in a recent skit on Saturday Night Live!
